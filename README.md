@@ -40,8 +40,6 @@
 
 📧 guhzindev@gmail.com
 
-🐙 GitHub: github.com/guhzin01
-
 📍 Brasil
 
 ---
