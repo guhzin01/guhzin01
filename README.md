@@ -10,7 +10,6 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-💻 Apaixonado por programação e tecnologia
 
 📚 Atualmente estudando Java, Python, SQL e Git
 
